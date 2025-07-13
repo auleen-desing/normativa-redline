@@ -201,11 +201,11 @@ Sirve para abrir o cerrar un coche de un cliente. Por ejemplo, porque se descone
 
 Ya no se usa, usar el menú de tuneo.
 
-#### ### 🟥 4 Incautar vehículo
+#### 🟥 4 Incautar vehículo
 
 Esta función sirve para hacer desaparecer un vehículo de un determinado lugar por diferentes motivos. Por ejemplo, que el vehículo sea de una persona que hace más de 30 minutos no viene a recogerlo, o en caso de que un vehículo no sea de la persona que viene a hacer el Tuneo y se tenga que confiscar, etc.
 
-### ### 🟥 Puntos de tuneo para aéreos
+### 🟥 Puntos de tuneo para aéreos
 
 [Proximamente]
 
@@ -220,7 +220,7 @@ Esta función sirve para hacer desaparecer un vehículo de un determinado lugar 
 Se debe respetar el orden de llegada de cada cliente, con excepción de los vehículos estatales: **LSPD, Sheriff, SC, y EMS** ya que ellos tienen prioridad.
 No existe un **“VIP”** en la facción de mecánicos, a menos que antes de ello su jefe o subjefe lo haya puesto en conocimiento sobre dicho sujeto.
 
-## ### 🟥 Facciones Legales
+## 🟥 Facciones Legales
 
 Se exime de pago a los vehículos estatales de **EMS, SHERIFF, LSPD y SC** en reparación y limpieza.
 
@@ -232,27 +232,27 @@ No se podrá realizar cambios externos a los vehículos policiales, únicamente 
 Todas las facciones deben pagar por los kits de reparación y limpieza.
 
 
-## ### 🟥 Procedimiento de atención Paso a Paso
+## 🟥 Procedimiento de atención Paso a Paso
 
-### ### 🟥 Paso 1
+### 🟥 Paso 1
 
 **Siempre** se debe pedir el **DNI** al cliente antes de cualquier tuning para asegurarse de que es el dueño del vehículo. En caso de que el cliente se resista a dar su identificación, no podrá hacerse ningún tipo de tuneo.
 
-### ### 🟥 Paso 2
+### 🟥 Paso 2
 
 Una vez asegurado que es el dueño del vehículo se le pide al cliente que suba al asiento del conductor para habilitarle el menú de tuneo. 
 
-### ### 🟥 Paso 3
+### 🟥 Paso 3
 
 Se le explica que puede ver cualquier tuneo y ver el precio que gastará. Si quiere aplicar un cambio deberá tocar el botón verde que indica "seleccionar", esto comenzará a sumarle en el total que puede ver en la parte inferior del menú. 
 
 Recordarle que no puede seleccionar la opción "ruedas de drift" porque si no se irá a dormir (baneado).
 
-### ### 🟥 Paso 4
+### 🟥 Paso 4
 
 Cuando el cliente ya tenga el tuneo elegido, seleccionará el botón verde que dice "ordenar" y se deberá bajar del vehículo. 
 
-### ### 🟥 Paso 5
+### 🟥 Paso 5
 
 Con el ojito, selecciono la opción "Instalar tuneo", la cual me abrirá el menú de tuneos a aplicar. Se deberá revisar el total y colocar la factura al cliente, una vez pague, se comienza a instalar los tuneos (siempre se debe cobrar antes de instalar). 
 
@@ -264,21 +264,21 @@ Si el cliente se arrepintió de algún cambio y todavía **no se instalaron los 
 Si el cliente se arrepintió de algún cambio y quiere modificarlo de nuevo **una vez se instalaron los tuneos**, deberá volver a pagar. 
 
 
-### ### 🟥 Paso 6
+### 🟥 Paso 6
 
 Finalizado el tuneo, despido amablemente al cliente. 
 
-## ### 🟥 Uniformes
+##  🟥 Uniformes
 
 Es obligatorio usar la ropa de trabajo que corresponde. En el discord se encuentra un canal llamado **uniforme**.
 
-## ### 🟥 Procedimiento ante disturbios
+## 🟥 Procedimiento ante disturbios
 
 Si una persona le falta el respeto a otro, incita a una pelea y/o realiza acciones prohibidas dentro del taller, se le llamará la atención verbalmente, si continúa con sus actitudes violentas se le revocará el derecho a ser atendido durante los próximos 30 minutos, en caso de insistir con el mal comportamiento, se permite la utilización del taser. Si ve que no puede controlar la situación, reportar. 
 
 En el caso de que un cliente no quiera pagar la factura no se le instalan los tuneos y se le pide que se retire del mecánico. 
 
-## ### 🟥 Avisos y Expulsiones
+## 🟥 Avisos y Expulsiones
 
 **Dependiendo la gravedad primero se colocará una **🟧 **advertencia****, si las faltas continúan se colocará un **🟥 **aviso**** y en casos extremos la expulsión.**
 
@@ -297,7 +297,7 @@ En el caso de que un cliente no quiera pagar la factura no se le instalan los tu
 * Farmear horas con el fichaje 
 * Tunear tu propio coche en servicio 
 
-### ### 🟥 Expulsiones
+### 🟥 Expulsiones
 
 * Corrupción (motivo de ck y bl)
 * Solicitar que la depositen el dinero de la factura a su cuenta/bolsillo. (motivo de ck y bl)
