@@ -209,13 +209,13 @@ Esta función sirve para hacer desaparecer un vehículo de un determinado lugar 
 
 [Proximamente]
 
-## ### 🟥 Prohibiciones del menú
+## 🟥 Prohibiciones del menú
 
 **Opción:** ruedas de drift (banea). Deberán avisarles a los clientes que no las coloquen.
 
 **Prohibido** colocar torretas, armas, misiles, etc. 
 
-## ### 🟥 Orden de atención
+## 🟥 Orden de atención
 
 Se debe respetar el orden de llegada de cada cliente, con excepción de los vehículos estatales: **LSPD, Sheriff, SC, y EMS** ya que ellos tienen prioridad.
 No existe un **“VIP”** en la facción de mecánicos, a menos que antes de ello su jefe o subjefe lo haya puesto en conocimiento sobre dicho sujeto.
