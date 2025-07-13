@@ -31,7 +31,7 @@ Se presenta la siguiente jerarquía, siendo la mejor Jefa la autoridad máxima:
 
 Los rangos de Supervisor y Encargado dependen de los ADM / Moderadores y su confianza, como así también contar con muchísimo tiempo dentro de la facción.
 
-### ### 🟥 Ascensos
+### 🟥 Ascensos
 
 Para ascender de rango se tomarán en cuenta múltiples factores: desde las horas fichadas, el trato con el cliente, su honestidad, su habilidad en el rol, compañerismo, su capacidad para resolver problemas y hacer su mayor esfuerzo dentro de la facción tanto IC como OOC.
 Horas necesarias para ascender: 
@@ -43,7 +43,7 @@ Horas necesarias para ascender:
 
 Los **rangos altos** deberán colaborar en discord, como ayuda en tickets, entrevistas, fichaje de horas, normativa, entre muchos otros factores que acrediten el puesto. 
 
-### ### 🟥 Inactividad
+ ### 🟥 Inactividad
 
 Se deben cumplir 🟥 **5hs mínimas** semanales. Cuando no pueda realizarlas, deberá colocar inactividad. 
 Recordando que el tiempo mínimo son de 30 minutos de servicio.
@@ -59,7 +59,7 @@ Si llevan 3 semanas consecutivas de inactividad, se empezará a degradar, si tie
 
 Las inactividades se pedirán cada semana en el canal correspondiente OOC.
 
-### ### 🟥 Discord y Radios
+### 🟥 Discord y Radios
 
 Es obligatorio estar en el canal de voz de Discord a la hora de estar de servicio, denominada “Radio taller”. También es obligatoria la radio IC de Mecánico. 
 
@@ -75,7 +75,7 @@ Mecánicos: frecuencia 180.00
 
 Cuando el mecánico entre de servicio deberá ir al canal 🟥 **REGISTROS** en discord y en la sección 🟥 **FICHAJE** seleccione 🟩 **Ingreso** y 🟦 **Egreso** cuando finalice el mismo.
 
-### ### 🟥 Importante
+### 🟥 Importante
 
 Queda 🟥 **prohibido** recibir el dinero en mano, todo debe hacerse por factura. 
 
@@ -85,7 +85,7 @@ Queda 🟥 **prohibido** instalar el tuneo a sus propios coches.
 
 Si **pierden los tasers**, por causas personales, deberán reponerlos con su dinero: _$10_, lo mismo con las radios. 
 
-### ### 🟥 Precios y cobros
+### 🟥 Precios y cobros
 
 Cuando se modifica un coche, el menú de tuneo te arrojará el total a cobrar. Eso se debe colocar al 100% en factura. 
 
@@ -97,7 +97,7 @@ Cuando se modifica un coche, el menú de tuneo te arrojará el total a cobrar. E
 No se cobra nada en mano, todo es por factura. Cobrar en mano es **motivo de expulsión por corrupción** y blacklist de facciones legales.
 
 
-#### ### 🟥 Facturación
+### 🟥 Facturación
 
 La factura es el único método para cobrar a los clientes. Se coloca una vez el cliente ordene su tueno y podamos ver el total en el menú del mecánico. 
 
@@ -118,7 +118,7 @@ Se debe colocar la factura antes de **instalar** los tuneos.
 Cobrar mal, llevarse más ganancias de las que les corresponde, es motivo de **ck y blacklist de facciones legales.** 
 
 
-### ### 🟥 Venta de Kits, Reparaciones y Limpiezas
+### 🟥 Venta de Kits, Reparaciones y Limpiezas
 
 El valor de los kits es de €20 cada uno.
 
@@ -138,11 +138,11 @@ El valor de la **reparación y limpiaza** es de €20 cada uno.
 
 Toda debe ser cobrado al cliente por factura 🟥 **obligatoriamente****.**
 
-### ### 🟥 Zona segura y comportamiento
+### 🟥 Zona segura y comportamiento
 
 Los talleres mecánicos abarcan tanto la zona de estacionamiento como el taller en sí. Según las “Normas Generales de La Naranja”, los talleres son Zonas Seguras, eso quiere decir que no puede haber: roles agresivos, insultos, y/o nada que perturbe tanto al mecánico como al cliente, queda prohibido el uso de máscaras.
 
-### ### 🟥 Inicio y Puntos de tuneo
+### 🟥 Inicio y Puntos de tuneo
 
 Deben usar /multijob que le permite 🟩 **entrar** o 🟥 **salir** de servicio. 
 
@@ -152,7 +152,7 @@ Dentro del taller mecánico, se encontrarán con la tienda que les permite coloc
 
 Es obligatorio tunear los coches dentro de los box, las cabinas de pintura son limitadas. 
 
-### ### 🟥 Armario
+### 🟥 Armario
 
 Para su servicio, el **máximo** de ítems que podrán sacar es:
 
@@ -173,13 +173,13 @@ Sé responsable con el uso de los recursos.
 Los kits de reparación y limpieza se sacan del armario únicamente para ventas. 
 
 
-## ### 🟥 Menú principal 
+## 🟥 Menú principal 
 
-### ### 🟥 Menú de Tuneo
+### 🟥 Menú de Tuneo
 
 ### 🟥 [Proximamente]
 
-### ### 🟥 F6
+### 🟥 F6
 
 ![](https://media.discordapp.net/attachments/1377450275648045056/1394000059284062269/image.png?ex=68753739&is=6873e5b9&hm=c70b443ae9be4ebb2960862833d96408e7541ae76044807d5ed860acf2a369c7&=&format=webp&quality=lossless)
 
