@@ -43,7 +43,7 @@ Horas necesarias para ascender:
 
 Los **rangos altos** deberán colaborar en discord, como ayuda en tickets, entrevistas, fichaje de horas, normativa, entre muchos otros factores que acrediten el puesto. 
 
- ### 🟥 Inactividad
+  🟥 Inactividad
 
 Se deben cumplir 🟥 **5hs mínimas** semanales. Cuando no pueda realizarlas, deberá colocar inactividad. 
 Recordando que el tiempo mínimo son de 30 minutos de servicio.
