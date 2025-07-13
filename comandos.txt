@@ -1,0 +1,6 @@
+git add .
+git commit -m "Actualización de normativa"
+git push
+
+
+mkdocs gh-deploy

@@ -46,6 +46,7 @@ Los **rangos altos** deberán colaborar en discord, como ayuda en tickets, entre
 ### ### 🟥 Inactividad
 
 Se deben cumplir 🟥 **5hs mínimas** semanales. Cuando no pueda realizarlas, deberá colocar inactividad. 
+Recordando que el tiempo mínimo son de 30 minutos de servicio.
 
 > 💡 **INFO:**
 Se pondrán avisos por inactividades injustificadas.
@@ -56,12 +57,14 @@ Se pondrán avisos por inactividades injustificadas.
 
 Si llevan 3 semanas consecutivas de inactividad, se empezará a degradar, si tiene el rango más bajo se pondrán avisos hasta su expulsión. 
 
+Las inactividades se pedirán cada semana en el canal correspondiente OOC.
+
 ### ### 🟥 Discord y Radios
 
 Es obligatorio estar en el canal de voz de Discord a la hora de estar de servicio, denominada “Radio taller”. También es obligatoria la radio IC de Mecánico. 
 
 > 💡 **INFO:**
-Mecánicos: frecuencia 178.50
+Mecánicos: frecuencia 180.00
 
 > ❗ **PELIGRO:**
 **Advertencia:**
@@ -98,11 +101,10 @@ No se cobra nada en mano, todo es por factura. Cobrar en mano es **motivo de exp
 
 La factura es el único método para cobrar a los clientes. Se coloca una vez el cliente ordene su tueno y podamos ver el total en el menú del mecánico. 
 
-Se utiliza el menú **F6** **o el ojito (alt / bloq mayús)** para realizar la factura:
+Se utiliza el menú **el ojito (alt / bloq mayús)** para realizar la factura:
 
-* Se seleccionará " factura/cobrar jugador" y colocaremos al cliente que debe pagar.
-* En el apartado "**cantidad de factura"** se colocará el importe del dinero a facturar **sin puntos ni comas**. Ejemplo: 1600
-* En el apartado “razón de factura” se colocará **"mecánico"**. 
+* Se seleccionará " **Cobrar jugador** 
+* En el apartado "**cantidad"** se colocará el importe del dinero a facturar **sin puntos ni comas**. Ejemplo: 1600
 * Dicho dinero se debita de lo que tenga en el banco o en efectivo, depende de la opción elegida.
 * Si no llega la notificación de factura pagada, queda 🟥 **prohibido** brindar el servicio de mecánicos. 
 
@@ -129,6 +131,8 @@ El rango 🟧 **Recluta** podrá vender un **máximo de 15 kits** por cliente al
 
 Desde el rango 🟨 **Experimentado** en adelante no tienen límite de venta.
 
+Desde el rango 🟨 **Experimentado** se realizará una prueba para obtener el rol Entrevistador OOC.
+
 
 El valor de la **reparación y limpiaza** es de €20 cada uno.
 
@@ -140,7 +144,7 @@ Los talleres mecánicos abarcan tanto la zona de estacionamiento como el taller 
 
 ### ### 🟥 Inicio y Puntos de tuneo
 
-Deben ir al anillo de interacción que le permite 🟩 **entrar** o 🟥 **salir** de servicio. 
+Deben usar /multijob que le permite 🟩 **entrar** o 🟥 **salir** de servicio. 
 
 Se les habilitará el armario donde deben retirar los ítems necesarios para su servicio.
 
@@ -154,8 +158,14 @@ Para su servicio, el **máximo** de ítems que podrán sacar es:
 
 * 1 de comida y 1 de bebida
 * 1 radio
-* 1 taser
+* 1 taser (A partir de Recluta)
 * 1 medikit (únicamente pueden retirarlo del armario si lo necesitan)
+
+Si no devuelves las herramientas o materiales al terminar tu servicio, o te llevas cosas que no están autorizadas (como más comida de la permitida), será motivo de aviso inmediato.
+
+📌 Este tipo de acciones afectan al equipo y al funcionamiento del taller, por lo que pueden tener consecuencias IC y OOC.
+
+Sé responsable con el uso de los recursos.
 
 **Al salir de servicio deberán devolver los ítems que no se hayan utilizado.**
 
@@ -171,7 +181,7 @@ Los kits de reparación y limpieza se sacan del armario únicamente para ventas.
 
 ### ### 🟥 F6
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIz195Al2LE9iBsmfsdcaZQS0SFCZ4LHCoL5c-x2U91I-pu3tSXHkWt20Ayz2cvjt5N66D4RIDOXR9f8BUhL2WkVckUXo-NrBdGXpg1i7syM3BCBRGQSNed0VfOClVBwcA0NAnnb0fSkS9IpL9DDkelwpj?key=ZXhVcnZTbc3U2Xyeptijeg)
+![](https://media.discordapp.net/attachments/1377450275648045056/1394000059284062269/image.png?ex=68753739&is=6873e5b9&hm=c70b443ae9be4ebb2960862833d96408e7541ae76044807d5ed860acf2a369c7&=&format=webp&quality=lossless)
 
 #### ### 🟥 1 Verificar propiedad del vehículo
 
