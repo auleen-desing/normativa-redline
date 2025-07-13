@@ -1,0 +1,35 @@
+
+/* Fondo plateado general */
+body {
+    background-color: #c0c0c0;
+    color: #000000;
+}
+
+.md-main {
+    background-color: #f0f0f0;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222222;
+}
+
+.md-sidebar {
+    background-color: #d9d9d9;
+}
+
+.md-nav__link {
+    color: #000000;
+}
+
+.md-nav__link--active {
+    color: #1a1a1a;
+    font-weight: bold;
+}
+
+code {
+    background-color: #e0e0e0;
+    color: #000000;
+}
