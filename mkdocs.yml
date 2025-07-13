@@ -1,6 +1,18 @@
 
-site_name: Normativa Redline
+site_name: Normativa RedLine
+site_description: Normativa oficial de la facción de mecánicos en RedLine RP.
 theme:
   name: material
-extra_css:
-  - assets/stylesheets/extra.css
+  logo: images/logo_redline_header.png
+  favicon: images/favicon_redline.ico
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: red
+    accent: deep orange
+nav:
+  - Inicio: index.md
