@@ -15,21 +15,19 @@ description: >-
 
 Se presenta la siguiente jerarquía, siendo la mejor Jefa la autoridad máxima: 
 
-🟪 **7 Paulita**
+🟪 **7 Auleen**
 
-🟦 **6 Encargado taller**
+🟦 **6 Encargado**
 
-🟪 **5 Supervisor**
+🟪 **5 Maestro**
 
-🟦 **4 Ingeniero**
+🟦 **4 Experimentado**
 
-🟩 **3 Técnico**
+🟩 **3 Línea Base**
 
-🟨 **2 Profesional**
+🟨 **2 Recluta**
 
-🟧 **1 Trucker**
-
-🟥 **0 Principiante**
+🟧 **1 El Nuevo**
 
 Los rangos de Supervisor y Encargado dependen de los ADM / Moderadores y su confianza, como así también contar con muchísimo tiempo dentro de la facción.
 
@@ -38,10 +36,10 @@ Los rangos de Supervisor y Encargado dependen de los ADM / Moderadores y su conf
 Para ascender de rango se tomarán en cuenta múltiples factores: desde las horas fichadas, el trato con el cliente, su honestidad, su habilidad en el rol, compañerismo, su capacidad para resolver problemas y hacer su mayor esfuerzo dentro de la facción tanto IC como OOC.
 Horas necesarias para ascender: 
 
-* 🟥 **Principiante** a 🟧 **Trucker**: pasar el periodo de pruebas (1 - 2 semanas).
-* 🟧 **Trucker** a 🟨 **Profesional**: 75 horas.
-* 🟨 **Profesional** a 🟩 **Técnico**: 150 horas.
-* 🟩 **Técnico** en 🟦 **adelante**: +200 horas, ayuda IC y OOC. 
+* 🟥 **El Nuevo** a 🟧 **Recluta**: pasar el periodo de pruebas (1 - 2 semanas).
+* 🟧 **Recluta** a 🟨 **Línea Base**: 75 horas.
+* 🟨 **Línea Base** a 🟩 **Experimentado**: 150 horas.
+* 🟩 **Experimentado** en 🟦 **adelante**: +200 horas, ayuda IC y OOC. 
 
 Los **rangos altos** deberán colaborar en discord, como ayuda en tickets, entrevistas, fichaje de horas, normativa, entre muchos otros factores que acrediten el puesto. 
 
@@ -63,12 +61,7 @@ Si llevan 3 semanas consecutivas de inactividad, se empezará a degradar, si tie
 Es obligatorio estar en el canal de voz de Discord a la hora de estar de servicio, denominada “Radio taller”. También es obligatoria la radio IC de Mecánico. 
 
 > 💡 **INFO:**
-Mecánicos de sur: frecuencia 24.1
-
-Mecánicos de norte: frecuencia 24.2
-
-
-Tendrán acceso a varios canales en discord, entre ellos **Mecánico Sur o Norte**, es importante que en el canal 🟥 **TUNEO,** se registre absolutamente todos los clientes que se atiendan **mediante una plantilla.**
+Mecánicos: frecuencia 178.50
 
 > ❗ **PELIGRO:**
 **Advertencia:**
@@ -130,11 +123,11 @@ El valor de los kits es de €20 cada uno.
 Deberán **registrar** cada venta en el canal de **ventas** en discord, completando una plantilla.
 
 > 💡 **INFO:**
-El rango 🟥 **principiante** no tiene permitido vender kits. 
+El rango 🟥 **El Nuevo** no tiene permitido vender kits. 
 
-El rango 🟧 **trucker** podrá vender un **máximo de 15 kits** por cliente al día. 
+El rango 🟧 **Recluta** podrá vender un **máximo de 15 kits** por cliente al día. 
 
-Desde el rango 🟨 **profesional** en adelante no tienen límite de venta.
+Desde el rango 🟨 **Experimentado** en adelante no tienen límite de venta.
 
 
 El valor de la **reparación y limpiaza** es de €20 cada uno.
@@ -305,5 +298,3 @@ En el caso de que un cliente no quiera pagar la factura no se le instalan los tu
 ***
 
 La normativa está sujeta a modificaciones. 
-
-🟥 **ATT Directiva de Mecánicos Paulita**
