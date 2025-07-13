@@ -9,9 +9,9 @@ description: >-
 
 🧰 _"Donde otros ven chatarra, nosotros vemos potencial."_ 🧰
 
-## ### 🟥 Normativa de Mecánicos
+## 🟥 Normativa de Mecánicos
 
-### ### 🟥 Jerarquía
+### 🟥 Jerarquía
 
 Se presenta la siguiente jerarquía, siendo la mejor Jefa la autoridad máxima: 
 
@@ -183,7 +183,7 @@ Los kits de reparación y limpieza se sacan del armario únicamente para ventas.
 
 ![](https://media.discordapp.net/attachments/1377450275648045056/1394000059284062269/image.png?ex=68753739&is=6873e5b9&hm=c70b443ae9be4ebb2960862833d96408e7541ae76044807d5ed860acf2a369c7&=&format=webp&quality=lossless)
 
-#### ### 🟥 1 Verificar propiedad del vehículo
+# 🟥 1 Verificar propiedad del vehículo
 
 Les mostrará el nombre y apellido (IC) de la persona a la que pertenece en forma de una notificación en la parte derecha de la pantalla.
 
@@ -193,7 +193,7 @@ Deberán revisar de quién es el vehículo y luego corroborar con la identificac
 Si un cliente no presenta identificación, queda 🟥 **prohibido** realizar alguna modificación a su vehículo. 
 
 
-#### ### 🟥 2 Forzar vehículo
+# 🟥 2 Forzar vehículo
 
 Sirve para abrir o cerrar un coche de un cliente. Por ejemplo, porque se desconectó el cliente, o el mecánico debe moverlo para no entorpecer el paso.
 
